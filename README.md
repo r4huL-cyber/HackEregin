@@ -44,8 +44,10 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/HackEregin.git
-cd HackEregin
-```
-##Install dependencies:
-```
+cd HackEregin ```
+## 📦 Installation
+
+Install dependencies:
+
+```bash
 pip install -r requirements.txt
