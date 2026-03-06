@@ -43,7 +43,7 @@ The tool automatically detects and decodes multiple encoding formats and ciphers
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/HackEregin.git
+git clone https://github.com/r4huL-cyber/HackEregin.git
 cd HackEregin 
 ```
 Install dependencies:
